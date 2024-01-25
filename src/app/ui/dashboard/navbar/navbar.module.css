@@ -1,0 +1,9 @@
+.title::after{
+    content: "";
+    display: block;
+    width: 135px;
+    height: 4px;
+    background: red;
+    transform : scaleX(0);
+    transistion: 2s;
+}
